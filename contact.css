@@ -75,7 +75,7 @@ li:last-child {
 }
 
 .menu-bar ul li a:hover {
-    background-color: #ddd;
+    background-color: white;
     color: white;
 }
 
