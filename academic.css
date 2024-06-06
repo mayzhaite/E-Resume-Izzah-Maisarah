@@ -75,8 +75,8 @@ li:last-child {
 }
 
 .menu-bar ul li a:hover {
-    background-color: black;
-    color: black;
+    background-color: grey;
+    color: white;
 }
 
 .sub-menu-1 {
