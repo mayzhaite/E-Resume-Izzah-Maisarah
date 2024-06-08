@@ -120,6 +120,8 @@ h3 {
             height: auto; 
         }
 
-        .container img {
-            margin: 10px; 
+        .container img, .container video {
+         display: block;
+	     margin: 10px auto;
+            
         }
